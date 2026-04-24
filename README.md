@@ -1,16 +1,24 @@
-## Hi there 👋
+## David Prosper Isinguzo
+### DevOps & Cloud Engineer
 
-<!--
-**davidprosperisinguzo/davidprosperisinguzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and deploy cloud infrastructure across AWS and Azure, with a
+GitOps and Infrastructure as Code first approach to every problem.
+My work covers CI/CD pipeline engineering, container workflows,
+configuration management, and agentic AI tooling for infrastructure automation.
 
-Here are some ideas to get you started:
+**Core Stack**
+AWS · Azure · Terraform · Ansible · Docker · Kubernetes
+GitHub Actions · Azure DevOps · Linux · Python · Bash · Claude Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Active Certifications**
+AZ-305, Azure Solutions Architect
+KCNA, Kubernetes and Cloud Native Associate
+DMI Cohort-2, DevOps Micro Internship
+
+**Featured Projects**
+- Agentic AI DevOps Pipeline, AWS S3 and CloudFront with Claude Code subagents and safety hooks
+- Azure DevOps CI/CD Pipeline, Terraform and Ansible for EpicBook on Azure
+- Modular Terraform Architecture, three-tier AWS deployment with remote state
+- Multi-Stage Docker Containerisation, React application with ECR and Nginx
+
+📎 linkedin.com/in/davidpisinguzo
